@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Apenas quando a lagarta pensava que o mundo estava acabando, ele se transformou em uma borboleta.</string>
+    <string name="affirmation2">Eu não quero chegar ao fim da minha vida e descobrir que eu vivi apenas o comprimento dela. Eu quero ter vivido a largura também</string>
+    <string name="affirmation3">Não deixe o que você não pode fazer interferir com o que você pode fazer.</string>
+    <string name="affirmation4">Motivação é o que te faz começar. Hábito é o que te mantém seguindo em frente.</string>
+    <string name="affirmation5">O número dos que nos invejam confirma as nossas capacidades.</string>
+    <string name="affirmation6">Ninguém é assim tão velho que não acredite que poderá viver por mais um ano.</string>
+    <string name="affirmation7">Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.</string>
+    <string name="affirmation8">[Em arte] o impossível verosímil é preferível ao possível não acreditável.</string>
+    <string name="affirmation9">Inovação distingue um líder de um seguidor.</string>
+    <string name="affirmation10">Talento é dom, é graça. E sucesso nada tem haver com sorte, mas com determinação e trabalho.</string>
+</resources>
